@@ -1,3 +1,5 @@
+package lesson;
+
 public class Arrays {
     public void print() {
         String[] fruits = {"Apple", "Banana", "Avocado", "Orange"};
@@ -23,6 +25,5 @@ public class Arrays {
         for (String fruit : fruits) {
             System.out.print(fruit + " ");
         }
-
     }
 }
